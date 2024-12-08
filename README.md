@@ -1,4 +1,5 @@
 # Екатерина Кожемяко 
+![IMG_2882](https://github.com/user-attachments/assets/64406fee-ad75-4b6e-a636-0c40479a5f53)
 
 ## Студентка курса Разработчик на C++.
 
